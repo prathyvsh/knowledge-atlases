@@ -1,5 +1,5 @@
 * Knowledge Atlases
-Catalogue of portals that maps out roadmap for self learners
+Catalogue of portals that map out roadmaps for self learners
 
 ** [[https://metacademy.org][Metacademy]]
 
