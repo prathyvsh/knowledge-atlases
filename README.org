@@ -7,7 +7,7 @@ Catalogue of portals that maps out roadmap for self learners
 
 ** [[https://learn-anything.xyz][Learn Anything]]
 
-** [[https://app.learney.me/][https://app.learney.me/]
+** [[https://app.learney.me/][Learney]]
 
 ** [[https://epiplexis.xyz/][Epiplexis]]
 
