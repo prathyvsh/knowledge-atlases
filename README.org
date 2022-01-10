@@ -1,0 +1,16 @@
+* Knowledge Atlases
+Catalogue of portals that maps out roadmap for self learners
+
+** [[https://metacademy.org][Metacademy]]
+
+** [[https://cognicull.com/en][Cognicull]]
+
+** [[https://learn-anything.xyz][Learn Anything]]
+
+** [[https://app.learney.me/][https://app.learney.me/]
+
+** [[https://epiplexis.xyz/][Epiplexis]]
+
+** [[https://galaxy.opensyllabus.org/][OpenSyllabus]]
+
+** [[https://learnawesome.org/][LearnAwesome]]
