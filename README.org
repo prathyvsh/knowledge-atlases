@@ -8,13 +8,23 @@ Catalogue of portals that map out roadmaps for self learners
 
 [[./metacademy.png]]
 
-Metacademy uses a dependency graph of concepts to create personalized learning plans for machine learning and related fields. Check it out here: https://metacademy.org
+Metacademy uses a dependency graph of concepts to create personalized learning plans for machine learning and related fields.
+
+Metacademy was built by Roger Grosse, an assistant professor of computer science at the University of Toronto and Colorado Reed, PhD. student at the Berkeley Artificial Intelligence Research. You can read about their philosophy for building it here: https://metacademy.org/about
 
 ** [[https://cognicull.com/en][Cognicull]]
 
 ** [[https://learn-anything.xyz][Learn Anything]]
 
-** [[https://app.learney.me/][Learney]]
+** [[https://learney.me/][Learney]]
+
+[[./learney-logo.gif]]
+
+[[./learney.png]]
+
+Learney is a tool for creating maps of knowledge in the form of skill trees. A good demonstration of its features can be seen from the map they have built for machine learning: https://app.learney.me/
+
+It is built by Matthew Phillips and Henry Pulver. You can read their whitepaper here: https://learney.me/learney_whitepaper.pdf
 
 ** [[https://epiplexis.xyz/][Epiplexis]]
 
