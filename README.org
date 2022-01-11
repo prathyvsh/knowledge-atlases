@@ -30,7 +30,9 @@ It is built by Matthew Phillips and Henry Pulver. You can read their whitepaper 
 
 ** [[https://galaxy.opensyllabus.org/][OpenSyllabus]]
 
-[[./open-syllabus.webp]]
+#+BEGIN_HTML
+<image src="./open-syllabus.webp" alt="Cover for Open Syllabus" />
+#+END_HTML
 
 OpenSyllabus tracks some 7 million course syllabi all over the world and has plotted books used for teaching as a map metricized by citations. David McClure, CTO of OpenSyllabus has written a blogpost on the making of this visualization over here: https://blog.opensyllabus.org/galaxy-v2/
 
