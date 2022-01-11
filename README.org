@@ -1,7 +1,7 @@
 * Knowledge Atlases
 Catalogue of portals that map out roadmaps for self learners
 
-[[./coverart.png]]
+[[./cover-art.png]]
 
 ** [[https://metacademy.org][Metacademy]]
 
