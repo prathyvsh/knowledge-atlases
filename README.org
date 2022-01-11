@@ -1,6 +1,8 @@
 * Knowledge Atlases
 Catalogue of portals that map out roadmaps for self learners
 
+[[./coverart.png]]
+
 ** [[https://metacademy.org][Metacademy]]
 
 ** [[https://cognicull.com/en][Cognicull]]
