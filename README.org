@@ -16,6 +16,10 @@ Metacademy was built by Roger Grosse, an assistant professor of computer science
 
 ** [[https://learn-anything.xyz][Learn Anything]]
 
+[[./learnanything.png]]
+
+A platform with a snappy interface for knowledge discovery that helps you understand any topic through the most efficient paths, as voted by the community. It is built by Nikita Voloboev, Angelo Gazzola, and John Letey
+
 ** [[https://learney.me/][Learney]]
 
 [[./learney-logo.gif]]
