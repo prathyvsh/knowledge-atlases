@@ -4,6 +4,11 @@ Catalogue of portals that map out roadmaps for self learners
 [[./cover-art.png]]
 
 ** [[https://metacademy.org][Metacademy]]
+*** A package manager for knowledge
+
+[[./metacademy.png]]
+
+Metacademy uses a dependency graph of concepts to create personalized learning plans for machine learning and related fields. Check it out here: https://metacademy.org
 
 ** [[https://cognicull.com/en][Cognicull]]
 
