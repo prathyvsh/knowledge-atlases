@@ -32,6 +32,10 @@ It is built by Matthew Phillips and Henry Pulver. You can read their whitepaper 
 
 ** [[https://epiplexis.xyz/][Epiplexis]]
 
+[[./epiplexis.png]]
+
+A visual compendium for various domains in mathematics with interactive videos. Made by Yuri Sulyma, an assistant professor of mathematics at Brown University.
+
 ** [[https://galaxy.opensyllabus.org/][OpenSyllabus]]
 
 #+BEGIN_HTML
