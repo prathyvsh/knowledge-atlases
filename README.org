@@ -45,3 +45,7 @@ A visual compendium for various domains in mathematics with interactive videos. 
 OpenSyllabus tracks some 7 million course syllabi all over the world and has plotted books used for teaching as a map metricized by citations. David McClure, CTO of OpenSyllabus has written a blogpost on the making of this visualization over here: https://blog.opensyllabus.org/galaxy-v2/
 
 ** [[https://learnawesome.org/][LearnAwesome]]
+
+[[./learnawesome.png]]
+
+LearnAwesome by Nilesh Trivedi is a learner centric social network built around a universal learning map. They are organized by topics, formats, and difficulty with an intend to provide a curation of optimal paths for learning any topic.
