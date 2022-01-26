@@ -14,6 +14,14 @@ Metacademy was built by Roger Grosse, an assistant professor of computer science
 
 ** [[https://cognicull.com/en][Cognicull]]
 
+Cognicull is a well designed website that provides roadmaps for understanding mathematics, natural sciences, and engineering.
+
+[[./cognicull.png]]
+
+It has a beautifully designed hierarchy of topic dependencies:
+
+[[./cognicull-hierarchy.png]]
+
 ** [[https://learn-anything.xyz][Learn Anything]]
 
 [[./learnanything.png]]
