@@ -60,8 +60,8 @@ LearnAwesome by Nilesh Trivedi is a learner centric social network built around 
 
 ** [[https://observablehq.com/@russelllim22/the-web-of-mathematics][Interactive map of mathematics]]
 
-[[./map-of-math.gif]]
+[[./map-of-maths.gif]]
 
-A neat interactive map of mathematics by Russell Lim here: https://www.cantorsparadise.com/the-web-of-mathematics-a-data-visualisation-baa5d478d908
+A neat interactive map of mathematics by Russell Lim.
 
 Read the article here: https://www.cantorsparadise.com/the-web-of-mathematics-a-data-visualisation-baa5d478d908#ca0f
