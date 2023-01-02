@@ -57,3 +57,11 @@ OpenSyllabus tracks some 7 million course syllabi all over the world and has plo
 [[./learnawesome.png]]
 
 LearnAwesome by Nilesh Trivedi is a learner centric social network built around a universal learning map. They are organized by topics, formats, and difficulty with an intend to provide a curation of optimal paths for learning any topic.
+
+** [[https://observablehq.com/@russelllim22/the-web-of-mathematics][Interactive map of mathematics]]
+
+[[./map-of-math.gif]]
+
+A neat interactive map of mathematics by Russell Lim here: https://www.cantorsparadise.com/the-web-of-mathematics-a-data-visualisation-baa5d478d908
+
+Read the article here: https://www.cantorsparadise.com/the-web-of-mathematics-a-data-visualisation-baa5d478d908#ca0f
